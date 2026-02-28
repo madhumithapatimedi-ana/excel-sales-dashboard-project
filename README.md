@@ -82,10 +82,12 @@ The data was cleaned and structured before analysis.
 
 ## 📈 Key Insights
 
-* Identified peak sales periods
+* Peak sales occur during morning hours.
+* 3 products contribute majority of revenue.
+* Profit margins vary across categories.
 * Determined highest revenue-generating products
 * Analyzed category contribution to total revenue
-* Observed seasonal and daily sales trends
+
 
 ---
 
